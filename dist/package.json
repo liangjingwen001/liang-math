@@ -1,0 +1,11 @@
+{
+  "name": "liangmath",
+  "version": "1.0.3",
+  "description": "liangjingwen的私有插件",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liangjingwen",
+  "license": "ISC"
+}
